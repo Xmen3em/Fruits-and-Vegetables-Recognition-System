@@ -52,3 +52,7 @@ The model is built using a convolutional neural network (CNN) to classify the fo
 
 ### Prediction Page
 ![Prediction Page GIF](ScreenRecording2.gif)
+
+## Deployment
+The application is deployed and can be accessed using the following link:
+[Food Recognition App](https://xmen3em-fruits-and-vegetables-recognition-system-main-vhfyxz.streamlit.app/)
