@@ -18,6 +18,7 @@ The dataset used for this project consists of images of various fruits and veget
 
 ## Model
 The model is built using a convolutional neural network (CNN) to classify the food items in the images. The model's architecture includes several convolutional layers followed by max-pooling layers and fully connected layers. Additionally, the MobileNetV2 model is used for its efficiency and accuracy in image classification tasks. The model is trained using the training dataset and validated using the validation dataset. 
+[my kaggle Notebook](https://www.kaggle.com/code/abdelmoneimrehab/fruits-and-vegetables-images-mobilenev2?scriptVersionId=196687061)
 
 ## Technologies
 - **Streamlit**: Used for building the web application interface.
